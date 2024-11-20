@@ -1,6 +1,3 @@
-Here's the cleaned-up and well-formatted README file for your GitHub project:
-
----
 
 # **Business Insights 360 - Power BI Dashboard Project**
 
@@ -18,6 +15,12 @@ AtliQ Hardware, a rapidly growing company in the computer and accessories market
 - Enable **data-driven decision-making** across multiple departments.
 - Optimize **data visualization** and enhance dashboard performance.
 - Deliver insights to improve **revenue** and reduce **operational costs**.
+
+---
+
+## **Live Report Link**
+Access the live Power BI dashboard here:  
+[**Business Insights 360 - Live Report**](https://app.powerbi.com/view?r=eyJrIjoiNTNlNTBlMmUtODA1Mi00YmVhLTg0ODAtNDdjNjRiZTRjZjc0IiwidCI6ImJmYTNkZmIwLTkxZDUtNGJmNy05YTBjLWZiZjZmZjMzNzE4NyIsImMiOjEwfQ%3D%3D)
 
 ---
 
@@ -126,7 +129,3 @@ Each department's insights are displayed on **separate, interactive views**:
 ## **Connect**
 - 📧 Email: [thearhat09@gmail.com](mailto:thearhat09@gmail.com)  
 - 🔗 LinkedIn: [Arhat Petkar](https://linkedin.com/in/arhat-petkar)
-
----
-
-Let me know if you'd like to tweak any section further! 😊
